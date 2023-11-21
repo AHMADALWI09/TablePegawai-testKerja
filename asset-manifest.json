@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AHMADALWI09/TablePegawai-test/static/css/main.e6c13ad2.css",
+    "main.js": "/AHMADALWI09/TablePegawai-test/static/js/main.c5ee2f1b.js",
+    "static/js/787.ef9e0ce4.chunk.js": "/AHMADALWI09/TablePegawai-test/static/js/787.ef9e0ce4.chunk.js",
+    "index.html": "/AHMADALWI09/TablePegawai-test/index.html",
+    "main.e6c13ad2.css.map": "/AHMADALWI09/TablePegawai-test/static/css/main.e6c13ad2.css.map",
+    "main.c5ee2f1b.js.map": "/AHMADALWI09/TablePegawai-test/static/js/main.c5ee2f1b.js.map",
+    "787.ef9e0ce4.chunk.js.map": "/AHMADALWI09/TablePegawai-test/static/js/787.ef9e0ce4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c5ee2f1b.js"
+  ]
+}
